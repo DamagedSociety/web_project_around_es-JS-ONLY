@@ -39,14 +39,14 @@ Hasta esta etapa del desarrollo, me he encargado de implementar las siguientes f
    Abre tu terminal y escribe el siguiente comando:
 
    ```bash
-   git clone hhttps://damagedsociety.github.io/web_project_around_es-JS-ONLY/
+   git clone https://github.com/DamagedSociety/web_project_around_es-JS-ONLY.git/
 
    ```
 
 2. Abre el archivo en tu navegador:
    Navega hasta la carpeta del proyecto y abre el archivo index.html en tu navegador web de preferencia, o utiliza una extensión como "Live Server" en tu editor de código para una experiencia automática.
 
-3. El proyecto también se encuentra desplegado y listo para su visualización en vivo en el siguiente enlace: https://damagedsociety.github.io/web_project_around_es/
+3. El proyecto también se encuentra desplegado y listo para su visualización en vivo en el siguiente enlace: https://damagedsociety.github.io/web_project_around_es-JS-ONLY/
 
 ## Planes de mejora
 

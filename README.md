@@ -8,6 +8,8 @@
 
 Around the US es una página interactiva concebida para que los usuarios puedan explorar, agregar fotografías de lugares, darles "me gusta" y eliminarlas. El proyecto partió de una maqueta estática maquetada en HTML y CSS, y mi rol se enfocó exclusivamente en el desarrollo de la lógica en JavaScript para dotar de interactividad a la interfaz.
 
+Nota importante: Este repositorio contiene únicamente una versión anterior del proyecto desarrollada solo con JavaScript vainilla, conservada como ejemplo de uso básico de JS. El desarrollo y la refactorización posterior del proyecto continuaron en otro repositorio implementando TypeScript y Programación Orientada a Objetos (POO). Para seguir la evolución de este proyecto, puedes consultar el siguiente enlace: [[Enlace al repositorio con TypeScript y POO](https://github.com/DamagedSociety/web_project_around_es)]
+
 Hasta esta etapa del desarrollo, me he encargado de implementar las siguientes funcionalidades principales:
 
 - **Estructuración e integración de datos:** Creación y recorrido de arreglos de objetos (`initialCards`) para gestionar la información estructurada de las tarjetas (nombres y enlaces de imágenes) de forma modular y limpia.
@@ -37,7 +39,7 @@ Hasta esta etapa del desarrollo, me he encargado de implementar las siguientes f
    Abre tu terminal y escribe el siguiente comando:
 
    ```bash
-   git clone https://github.com/DamagedSociety/web_project_around_es.git
+   git clone hhttps://damagedsociety.github.io/web_project_around_es-JS-ONLY/
 
    ```
 
